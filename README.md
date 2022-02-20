@@ -2,6 +2,10 @@
 
 unRAID runs from USB flash drive.
 
+## TrueNas Core VS unRAID
+
+* https://hardwarecanucks.com/forum/threads/truenas-core-vs-unraid.83621/
+
 ## Plugins
 
 * Community Plugin https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications.plg
