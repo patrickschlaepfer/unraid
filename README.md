@@ -14,9 +14,12 @@ install other plugins then.
 
 ## Tutorials
 
-* https://www.youtube.com/watch?v=I0XCFPAsWZE&t=232s
+* Turn an old PC into a powerful NAS solution using UNRAID! https://www.youtube.com/watch?v=r9n4hMFBqvo
+* Easily move, copy and sync files to unRAID, within unRAID and from unRAID using Krusader: https://www.youtube.com/watch?v=I0XCFPAsWZE&t=232s
+* How to setup and install the best plugins for unRAID: https://www.youtube.com/watch?v=1TTsV9nfazk
+* Unraid: 20 Must Have Plugins (2021 Edition): https://www.youtube.com/watch?v=cZTWC_z9rKs
 
-## Copy files
+## Copy files from USB disk to unRAID
 
 The unassigned disk will usually mount to /mnt/disks/ folder so if in the unraid gui you enter the console (top right) and do a
 
