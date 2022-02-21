@@ -2,6 +2,10 @@
 
 unRAID runs from USB flash drive.
 
+* https://youtu.be/qwyx-TkGth0
+* https://youtu.be/LmNNTFgKBBw
+* https://youtu.be/QZcbig_iwrM
+
 ## TrueNas Core VS unRAID
 
 * https://hardwarecanucks.com/forum/threads/truenas-core-vs-unraid.83621/
@@ -35,6 +39,11 @@ That should be your disk.  So for example if I have a folder called movies on my
     cp -av /mnt/disks/WD_Book/Movies /mnt/user/Movies
 
 copy files and directorys and list items copied from my usb drive to my movies directory on my array.
+
+## Enable NFS
+
+https://unraid.net/blog/deploying-an-unraid-nfs-server
+
 
 ## Enable array autostart
 
