@@ -40,6 +40,10 @@ That should be your disk.  So for example if I have a folder called movies on my
 
 copy files and directorys and list items copied from my usb drive to my movies directory on my array.
 
+Or you use `rsync`
+
+    rsync -avh --no-perms --no-group --no-owner --progress /mnt/mybook/this_backup/roon/roon/ /mnt/redhat/Music/
+
 ## Enable NFS
 
 https://unraid.net/blog/deploying-an-unraid-nfs-server
